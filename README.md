@@ -1,3 +1,3 @@
 # IPS_paper_202501
 IPS system paper data repository public
-Contains original data for some Tables and Figures
+Contains original dataset for some Tables and Figures included in the IPS project from 2021-2024. 
